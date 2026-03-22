@@ -1,0 +1,3 @@
+[submodule "BookUtils"]
+	path = BookUtils
+	url = https://github.com/Spanki71/BookUtilslb.git
